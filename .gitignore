@@ -8,3 +8,7 @@ layout.md
 variables.env
 finished-application/
 stepped-solutions/
+.env
+.env.example
+.env.local
+.env.staging
