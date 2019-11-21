@@ -1,5 +1,11 @@
 node_modules/
 .DS_Store
+*.env
+*.env*
+.env
+.env.example
+.env.local
+.env.staging
 *.log
 haters/
 .next/
@@ -8,8 +14,3 @@ layout.md
 variables.env
 finished-application/
 stepped-solutions/
-*.env
-.env
-.env.example
-.env.local
-.env.staging

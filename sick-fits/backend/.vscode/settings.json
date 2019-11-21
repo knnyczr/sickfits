@@ -1,4 +1,8 @@
 {
+  "editor.defaultFormatter": "esbenp.prettier-vscode", 
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
   "workbench.colorCustomizations": {
     "titleBar.activeBackground": "#FF2C70",
     "titleBar.inactiveBackground": "#FF2C70CC"
